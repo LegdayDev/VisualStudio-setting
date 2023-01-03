@@ -18,5 +18,7 @@ public class IndexController {
         log.error("{}님의 에러", myName);
         return "index ok";
     }
+    // Gradle for java 패키지 설치
+    // Gradle 수정후 잘 안먹을때 Gradle 통째로 다시 다운받을 수 있다.
 
 }
